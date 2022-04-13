@@ -4,10 +4,10 @@ This repository contains two functionalities
 
 ## Functionalities
 
-- greet
+greet:
 
-Example: console.log(greet('John'));
+- Example: console.log(greet('John'));
 
-- users
+users:
 
-Example: users().then(res => console.log(res));
+- Example: users().then(res => console.log(res));
